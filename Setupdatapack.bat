@@ -19,5 +19,5 @@ cd ..
 cd datapackprefix
 MD functions
 cd functions
-echo > tick.mcfunction
-echo > init.mcfunction
+echo data for tick goes here > tick.mcfunction
+echo data for init goes here > init.mcfunction
