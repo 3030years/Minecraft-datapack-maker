@@ -2,7 +2,7 @@
 MD Datapack
 cd Datapack\
 MD data
-echo {"pack": {"pack_format": 8,"description": ""}} > pack.mcmeta
+echo {"pack": {"pack_format": 9,"description": ""}} > pack.mcmeta
 cd data\
 MD datapackprefix
 MD minecraft
