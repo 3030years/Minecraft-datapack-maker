@@ -2,7 +2,7 @@
 Make a datapack for minecraft fast<br>
 Easy fast free<br>
 # How to use
-1. Click the ... menu button<br>
+1. Click the open menu button<br>
 2. Click download zip<br>
 3. Move file to desktop / folder<br>
 4. Test it<br>
