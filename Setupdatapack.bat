@@ -6,7 +6,7 @@ cd Datapack\
 MD data
 echo {"pack": {"pack_format": 9,"description": ""}} > pack.mcmeta
 cd data\
-MD datapackprefix
+MD %datapackprefix%
 MD minecraft
 cd minecraft
 MD tags
