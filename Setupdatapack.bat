@@ -18,7 +18,7 @@ echo {"values":["%datapackprefix%:tick"]} > tick.json
 cd ..
 cd ..
 cd ..
-cd datapackprefix
+cd %datapackprefix%
 MD functions
 cd functions
 echo data for tick goes here > tick.mcfunction
