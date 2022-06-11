@@ -1,4 +1,6 @@
 @echo off
+echo datapack name:
+set /p datapackprefix=""
 MD Datapack
 cd Datapack\
 MD data
@@ -11,8 +13,8 @@ MD tags
 cd tags
 MD functions
 cd functions
-echo {"values":["datapackprefix:init"]} > load.json
-echo {"values":["datapackprefix:tick"]} > tick.json
+echo {"values":["%datapackprefix%:init"]} > load.json
+echo {"values":["%datapackprefix%:tick"]} > tick.json
 cd ..
 cd ..
 cd ..
